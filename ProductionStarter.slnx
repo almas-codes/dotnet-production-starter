@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ProductionStarter.Api/ProductionStarter.Api.csproj" />
+  <Project Path="ProductionStarter.Core/ProductionStarter.Core.csproj" />
+  <Project Path="ProductionStarter.Features/ProductionStarter.Features.csproj" />
+  <Project Path="ProductionStarter.Infrastructure/ProductionStarter.Infrastructure.csproj" />
+  <Project Path="ProductionStarter.IntegrationTests/ProductionStarter.IntegrationTests.csproj" />
+</Solution>
